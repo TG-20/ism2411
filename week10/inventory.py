@@ -8,12 +8,12 @@
 #    also surprised me, because inventory[-1] always gives the last item
 #    without knowing how long the list is.
 #
-# 2. In my finance classes I often get a column of daily sales or prices in
-#    Excel and need to filter the big values, apply a discount, or find the
-#    average and the best day. In Excel that means filters, helper columns,
-#    and copying formulas down. With a Python list I can do all of it in a few
-#    lines and rerun it instantly when the data changes.
-
+# 2. # 2. In my microeconomics class (ECO2023) I worked on a case study about the
+#    rental housing market. Comparing rent prices meant typing numbers into
+#    Excel and writing formulas for the average, the highest, and the lowest
+#    rent. With a Python list I could store all the rents once and use sum(),
+#    max(), min(), and a loop to filter rents above a certain price in a few
+#    lines, then rerun it instantly if I added new data.
 
 # Exercise 1 — Build the list
 print("=== Exercise 1: Build the list ===")
