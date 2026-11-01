@@ -8,7 +8,7 @@
 #    also surprised me, because inventory[-1] always gives the last item
 #    without knowing how long the list is.
 #
-# 2. # 2. In my microeconomics class (ECO2023) I worked on a case study about the
+# 2. In my microeconomics class (ECO2023) I worked on a case study about the
 #    rental housing market. Comparing rent prices meant typing numbers into
 #    Excel and writing formulas for the average, the highest, and the lowest
 #    rent. With a Python list I could store all the rents once and use sum(),
